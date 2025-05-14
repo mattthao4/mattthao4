@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - [Animal Adoption App](https://github.com/mattthao4/Animal-Adoption-App)
 - [NutriBot](https://github.com/mattthao4/NutriBot)
 
-
+## Context for Animal Adoption App
 The Animal Adoption App was a project that I made with two others for the final in the CISC 450 Database Design course. The idea was to create an application that utilizes a database, as well as being applicable to a real system. What my groupmates and I chose was to design an animal shelter/adoption database that contained information about adoptions, users, staffs, shelters, animals, animal records, and locations. We designed an ER diagram using Crow's Foot Notation to model how the relationships between these tables work. After designing the database with my team, we decided to use Python, SQL, and Django to create our web application. The reason for this is because we learned to use a Python ORM (Object-Relational Mapping) to connect Python and SQL. After spending some time learning how this application works using Django's documentation, we managed to design a login system that stores user information, allow animal adoptions for animals, allow staffs to log medical records for animals, and more.
