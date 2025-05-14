@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Projects:
+## Projects:
 - [Auto Code Reviewer](https://github.com/mattthao4/Auto-Code-Reviewer)
 - [Animal Adoption App](https://github.com/mattthao4/Animal-Adoption-App)
 - [NutriBot](https://github.com/mattthao4/NutriBot)
